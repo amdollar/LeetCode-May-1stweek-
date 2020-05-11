@@ -1,4 +1,4 @@
-package io.test.TreeDS;
+package io.test.ConsumerInterface;
 
 public class CheckStraightLine {
 
